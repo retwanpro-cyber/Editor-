@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NOVA Chat</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue to NOVA Chat</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_button">Sign In</string>
+    <string name="register_button">Create Account</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="have_account">Already have an account? Sign In</string>
+    <string name="username_label">Username</string>
+    <string name="username_hint">Choose a username</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_hint">Enter your full name</string>
+    
+    <!-- Home & Navigation -->
+    <string name="chats_title">Chats</string>
+    <string name="no_chats_found">No chats yet</string>
+    <string name="start_chat_prompt">Tap the button below to start a conversation</string>
+    <string name="new_chat">New Chat</string>
+    <string name="settings_title">Settings</string>
+    <string name="logout">Sign Out</string>
+    <string name="search_hint">Search chats or users...</string>
+    <string name="more_options">More options</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Settings Screen -->
+    <string name="preferences_privacy">Preferences &amp; Privacy</string>
+    <string name="app_language">App Language</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="privacy_security">Privacy, Security &amp; Encryption</string>
+    <string name="storage_data">Storage &amp; Data</string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="email_contact">Email</string>
+    <string name="no_email_app">No email app found</string>
+    <string name="facebook_contact">Facebook</string>
+    <string name="link_open_failed">Failed to open link</string>
+    <string name="close">Close</string>
+
+    <!-- Privacy & Security Dialog -->
+    <string name="privacy_security_title">Privacy &amp; Security</string>
+    <string name="privacy_security_desc">Your chats are automatically end-to-end encrypted (E2EE).</string>
+    <string name="lock_app_title">Lock app with fingerprint / PIN</string>
+    <string name="lock_enabled_toast">App lock enabled successfully</string>
+    <string name="lock_disabled_toast">App lock disabled</string>
+    <string name="hide_online_status">Hide online status and last seen</string>
+    <string name="read_receipts">Read receipts (checkmarks)</string>
+    <string name="e2ee_active_unlocked">E2EE Encrypted • Unlocked</string>
+    <string name="e2ee_active_locked">Locked (App Lock)</string>
+
+    <!-- Storage & Data Dialog -->
+    <string name="storage_data_title">Storage &amp; Data</string>
+    <string name="cache_memory">Cache Memory</string>
+    <string name="clear_cache_action">Clear Cache</string>
+    <string name="cache_cleared_toast">Cache cleared successfully</string>
+    <string name="auto_download_media">Auto-download media</string>
+    <string name="download_wifi">Auto-download over Wi-Fi</string>
+    <string name="download_mobile">Auto-download over mobile data</string>
+    <string name="data_saver_mode">Data saver mode</string>
+    <string name="cache_prefix_label">Cache: </string>
+</resources>
